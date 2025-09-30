@@ -1,7 +1,7 @@
-Open **Termux** and enter:
+Open **Termux** and copy:
 
 ```
-apt update && apt upgrade
+pkg update && pkg upgrade
 pkg install python
 pip install flask flask-wtf wtforms colorama
 pip install -r requirements.txt
